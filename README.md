@@ -1,5 +1,5 @@
 <div align="right">
-<b>告别二维码，同样能“扫一扫”！</b>
+<b><i>告别二维码，同样能“扫一扫”！</i></b>
 
 <img src="logo.png" align="right" alt="ScanCan" width="180"/>
 </div>
@@ -7,7 +7,6 @@
 # ScanCan
 扫一扫，告诉你想知道的全部
 
-**全部扫一扫功能都在本地处理**
 
 
 # 特性
