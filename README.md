@@ -1,7 +1,9 @@
-
+<div align="right">
 告别二维码，同样能扫一扫！
 
 <img src="logo.png" align="right" alt="ScanCan" width="180"/>
+</div>
+
 # ScanCan
 扫一扫，告诉你想知道的全部
 
