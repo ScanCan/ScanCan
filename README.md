@@ -1,13 +1,13 @@
 <div align="right">
 <b><i>告别二维码，同样能“扫一扫”！</i></b>
 
-<img src="logo.png" align="right" alt="ScanCan" width="180"/>
+<img src="logo.png" align="right" alt="ScanCan" width="160"/>
 </div>
 
 # ScanCan
 扫一扫，告诉你想知道的全部
 
-
+<br><br>
 
 # 特性
 - 多场景
