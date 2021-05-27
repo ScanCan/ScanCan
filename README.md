@@ -1,5 +1,5 @@
 <div align="right">
-告别二维码，同样能扫一扫！
+<h4>告别二维码，同样能“扫一扫”！</h4>
 
 <img src="logo.png" align="right" alt="ScanCan" width="180"/>
 </div>
