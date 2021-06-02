@@ -43,4 +43,14 @@ ScanCan 能扫出很多有趣的事物，给好友分享，逐渐建立同类兴
 即日起，寻找志同道合的开源爱好者开发此项目，先从微信小程序搭建起，有意者联系：yidazhang1@gmail.com 或 微信：Yida_Zhang2
 
 
+# Similar Projects
+
+- Qrcp https://github.com/claudiodangelis/qrcp
+- ClipDrop https://github.com/cyrildiagne/ar-cutpaste
+- Signal https://github.com/signalapp/Signal-iOS
+- AirDrop https://github.com/seemoo-lab/opendrop
+- StegaStamp https://github.com/tancik/StegaStamp
+
+<br>
+
 **让我们为热爱发电，为科普教育行动！**
