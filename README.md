@@ -9,6 +9,12 @@
 
 <br><br>
 
+[![StegaStamp: Invisible Hyperlinks in Physical Photographs](https://user-images.githubusercontent.com/29084184/166694971-1ed4b4ab-d052-4104-a374-53d35d85161c.png)](https://www.zhihu.com/zvideo/1302252124579733504 "StegaStamp: Invisible Hyperlinks in Physical Photographs")
+
+Demo: Parse information hidden in images
+
+<br>
+
 # 特性
 - 多场景
 - 兴趣社交
@@ -42,14 +48,27 @@ ScanCan 能扫出很多有趣的事物，给好友分享，逐渐建立同类兴
 
 即日起，寻找志同道合的开源爱好者开发此项目，先从微信小程序搭建起，有意者联系：yidazhang1@gmail.com 或 微信：Yida_Zhang2
 
+## ☕ Processing
+
+```mermaid
+gantt
+        dateFormat  YYYY-MM-DD
+        title ScanCan Development Processing
+        section porting to modile device
+        architecture design          :done,    des1, 2020-12-18,2021-01-06
+        video scan.                  :active,  des2, 2021-01-07, 15d
+        chrome extension plus        :         des3, after des2, 7d
+        other application realize    :         des4, after des3, 32d
+```
 
 # Similar Projects
 
-- Qrcp https://github.com/claudiodangelis/qrcp
-- ClipDrop https://github.com/cyrildiagne/ar-cutpaste
-- Signal https://github.com/signalapp/Signal-iOS
-- AirDrop https://github.com/seemoo-lab/opendrop
-- StegaStamp https://github.com/tancik/StegaStamp
+- StegaStamp-plus. https://github.com/Charmve/StegaStamp-plus
+- Qrcp. https://github.com/claudiodangelis/qrcp
+- ClipDrop. https://github.com/cyrildiagne/ar-cutpaste
+- Signal. https://github.com/signalapp/Signal-iOS
+- AirDrop. https://github.com/seemoo-lab/opendrop
+- StegaStamp. https://github.com/tancik/StegaStamp
 
 <br>
 
