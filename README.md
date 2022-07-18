@@ -4,10 +4,13 @@
 <img src="logo.png" align="right" alt="ScanCan" width="160"/>
 </div>
 
-# ScanCan
+<h1> <img src="logo.png" alt="ScanCan" width="26" style="vertical-align:bottom;"/> ScanCan </h1>
+
 扫一扫，告诉你想知道的全部
 
-<br><br>
+<a href=""><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=346153&amp;theme=light" width="250" height="54"></a>
+
+<br>
 
 [![StegaStamp: Invisible Hyperlinks in Physical Photographs](https://user-images.githubusercontent.com/29084184/166694971-1ed4b4ab-d052-4104-a374-53d35d85161c.png)](https://www.zhihu.com/zvideo/1302252124579733504 "StegaStamp: Invisible Hyperlinks in Physical Photographs")
 
@@ -15,11 +18,13 @@ Demo: Parse information hidden in images
 
 <br>
 
-# 特性
+
+## ✨ 特性
 - 多场景
 - 兴趣社交
 - 用户数据隐私
 - 无网同传
+- [AR-DAO](https://github.com/Charmve/AR-DAO) DAO 去中心化
 
 说明：
 
@@ -44,9 +49,20 @@ ScanCan 能扫出很多有趣的事物，给好友分享，逐渐建立同类兴
 - 在一些无网络场景下，依然可以实现“扫一扫”功能，因为识别模型在本地；
 - 通过类似于 AirDrop 的无线传输方案，可通过**碰一碰**传输分享图片、消息等信息；
 
+## AR Cut & Paste
+
+https://user-images.githubusercontent.com/29084184/179511503-d887ea15-4010-47bb-b24f-f827713adc18.mp4
+
+[**Check it out on web !**](https://clipdrop.co/remove-background)
+
+## AR-DAO
+
+让用户通过增强现实（AR）铸造NFT并参与不同游戏的去中心化自治组织。
+
 # 项目发起
 
 即日起，寻找志同道合的开源爱好者开发此项目，先从微信小程序搭建起，有意者联系：yidazhang1@gmail.com 或 微信：Yida_Zhang2
+
 
 ## ☕ Processing
 
@@ -69,7 +85,23 @@ gantt
 - Signal. https://github.com/signalapp/Signal-iOS
 - AirDrop. https://github.com/seemoo-lab/opendrop
 - StegaStamp. https://github.com/tancik/StegaStamp
+- consensys. https://www.consensys.net/
+- UNISWAP. https://uniswap.org/
 
 <br>
 
+## 📜 License
+
+This work is licensed under the [Creative Commons Attribution NonCommercial ShareAlike 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
+## 💝 Acknowledge
+
+<br>
+
+
 **让我们为热爱发电，为科普教育行动！**
+
+<br>
+
+![image](https://user-images.githubusercontent.com/29084184/179506701-73e8fda3-53f7-4ffd-b989-06fd61e29f43.png)
+
