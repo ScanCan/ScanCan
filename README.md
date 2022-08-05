@@ -55,6 +55,14 @@ https://user-images.githubusercontent.com/29084184/179511503-d887ea15-4010-47bb-
 
 [**Check it out on web !**](https://clipdrop.co/remove-background)
 
+## Mobile-NeRF
+
+https://github.com/google-research/jax3d/tree/main/jax3d/projects/mobilenerf
+
+[**Check it out on web !**](https://storage.googleapis.com/jax3d-public/projects/mobilenerf/mobilenerf_viewer_mac/zdeferred_ff_mac.html?obj=fern)
+
+- link: https://github.com/dunbar12138/DSNeRF
+
 ## AR-DAO
 
 让用户通过增强现实（AR）铸造NFT并参与不同游戏的去中心化自治组织。AR-DAO开源了视觉识别算法的代码框架并应用于各类增强现实场景。通过向智能合约传输加密后的（不可篡改性）场景数据，通过伪随机的生成NFT。它兼容区块链的EVM（Ethereum Virtual Machine）而可被智能合约运行在EVM兼容的区块链上来确保数据上的不可篡改。AR-DAO可以通过DAO组织化的管理来不断提升其性能和应用范围的升级，AR-DAO会不断深度学习，从而适应更多潜在的应用场景。
@@ -62,7 +70,6 @@ https://user-images.githubusercontent.com/29084184/179511503-d887ea15-4010-47bb-
 # 项目发起
 
 即日起，寻找志同道合的开源爱好者开发此项目，先从微信小程序搭建起，有意者联系：yidazhang1@gmail.com 或 微信：Yida_Zhang2
-
 
 ## ☕ Processing
 
