@@ -24,6 +24,7 @@ Demo: Parse information hidden in images
 - 兴趣社交
 - 用户数据隐私
 - 无网同传
+- 深度3D场景融合
 - [AR-DAO](https://github.com/Charmve/AR-DAO) DAO 去中心化
 
 说明：
