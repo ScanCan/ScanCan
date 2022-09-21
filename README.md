@@ -73,7 +73,7 @@ link:
 - https://github.com/dunbar12138/DSNeRF
 - https://github.com/kwea123/nerf_pl
 
-## AR-DAO
+## [AR-DAO](https://github.com/Charmve/AR-DAO)
 
 让用户通过增强现实（AR）铸造NFT并参与不同游戏的去中心化自治组织。AR-DAO开源了视觉识别算法的代码框架并应用于各类增强现实场景。通过向智能合约传输加密后的（不可篡改性）场景数据，通过伪随机的生成NFT。它兼容区块链的EVM（Ethereum Virtual Machine）而可被智能合约运行在EVM兼容的区块链上来确保数据上的不可篡改。AR-DAO可以通过DAO组织化的管理来不断提升其性能和应用范围的升级，AR-DAO会不断深度学习，从而适应更多潜在的应用场景。
 
