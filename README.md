@@ -4,7 +4,7 @@
 <img src="logo.png" align="right" alt="ScanCan" width="160"/>
 </div>
 
-<h1> <img src="logo.png" alt="ScanCan" width="26" style="vertical-align:bottom;"/> ScanCan </h1>
+<h1> <img src="logo.png" alt="ScanCan" width="26" style="max-width: 100%; "/> ScanCan </h1>
 
 扫一扫，告诉你想知道的全部
 
